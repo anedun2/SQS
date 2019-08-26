@@ -1,2 +1,1 @@
-# SQS
-Basic SQS functions
+SQS
